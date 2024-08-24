@@ -1,7 +1,7 @@
 import logo from '../../images/rato.png';
 import menu_b from '../../images/fi-br-menu-burger.png';
 import lupa from '../../images/Vector.png';
-import './header.css';
+import './Header.css';
 
 function Header() {
   return (
