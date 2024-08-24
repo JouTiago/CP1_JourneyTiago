@@ -1,0 +1,51 @@
+.footer-container {
+    background-color: transparent;
+    padding: 10px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 135px;
+    background-color: transparent;
+    margin-top: 50px;
+  }
+
+.footer-elem-container {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    background-color: transparent;
+    width: 98%;
+    height: 100px;
+}
+
+.footer-logo {
+    width: 260px;
+    margin-right: 9px;
+    vertical-align: middle;
+}
+
+.footer-espacamento {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.footer-texto-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+    width: 28%;
+    height: auto;
+}
+
+.footer-texto {
+    display: flex;
+    font-size: 15px;
+    font-family: "Karla";
+    color: #FFFFFF;
+}
+
+.footer-texto-titulo {
+    flex: 50%;
+    color: #7E8087;
+    font-size: 14px;
+}

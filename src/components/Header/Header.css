@@ -1,0 +1,83 @@
+.header-container {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+}
+
+.header-elem-container {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-esq {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-left: auto;
+}
+
+.logo {
+  width: 120px;
+  margin-left: auto;
+}
+
+.menu-button {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  background-color: transparent;
+  border: none;
+  color: #FFFFFF;
+  font-size: 17px;    
+  cursor: pointer;
+}
+
+.menu-icon {
+  width: 18px;
+}
+
+.header-dir {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  gap: 20px;
+}
+
+.cx-pesquisa {
+  display: flex;
+  align-items: center;
+  background-color: #181D23;
+  padding: 10px 10px;
+  border-radius: 8px;
+  width: 600px;
+}
+
+.pesquisa-icon {
+  width: 16px;
+  margin-right: 18px;
+  margin-left: 15px;
+}
+
+.pesquisa-text0 {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  color: #888888;
+  text-align: left;
+}
+
+.login-button {
+  background-color: #D5224E;
+  border: none;
+  color: #FFF;
+  padding: 11px 43px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+}
